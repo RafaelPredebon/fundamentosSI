@@ -58,12 +58,3 @@ Muito utilizada em:
 -  Troca segura de chaves simétricas.
 
 ---
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas!  
-Sinta-se livre para abrir issues ou pull requests para expandir o glossário.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.
