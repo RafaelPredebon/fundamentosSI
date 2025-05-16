@@ -1,6 +1,5 @@
 # 🔐 Glossário de Criptografia
 
-Este repositório contém um glossário introdutório sobre criptografia, com explicações simples sobre os principais conceitos e sobre o uso de chaves simétricas e assimétricas.
 
 ## 🛡 O que é Criptografia?
 
