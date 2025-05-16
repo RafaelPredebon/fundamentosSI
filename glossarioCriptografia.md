@@ -27,7 +27,6 @@ Criptografia de chave simétrica é um método no qual **a mesma chave é usada 
 - AES (Advanced Encryption Standard)
 - DES (Data Encryption Standard)
 - Blowfish
-- ChaCha20 🔥
 
 ### 💡 Para que serve?
 É muito utilizada em ambientes controlados onde as partes podem compartilhar a chave com segurança.  
@@ -49,7 +48,7 @@ Criptografia de chave assimétrica utiliza **um par de chaves: uma pública e um
 ### 🛠 Exemplos de algoritmos:
 - RSA (Rivest-Shamir-Adleman)
 - ECC (Elliptic Curve Cryptography)
-- ElGamal 🔑
+- ElGamal 
 
 ### 💡 Para que serve?
 Muito utilizada em:
