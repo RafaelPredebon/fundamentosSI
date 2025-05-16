@@ -23,7 +23,7 @@ Criptografia de chave simétrica é um método no qual **a mesma chave é usada 
 -  Necessidade de manter a chave secreta entre as partes.
 -  Dificuldade na distribuição segura da chave.
 
-### 🛠 Exemplos de algoritmos:
+###  Exemplos de algoritmos:
 - AES (Advanced Encryption Standard)
 - DES (Data Encryption Standard)
 - Blowfish
@@ -45,7 +45,7 @@ Criptografia de chave assimétrica utiliza **um par de chaves: uma pública e um
 -  Mais lenta que a criptografia simétrica.
 -  Resolve o problema de distribuição segura das chaves.
 
-### 🛠 Exemplos de algoritmos:
+###  Exemplos de algoritmos:
 - RSA (Rivest-Shamir-Adleman)
 - ECC (Elliptic Curve Cryptography)
 - ElGamal 
